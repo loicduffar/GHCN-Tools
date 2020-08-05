@@ -1,6 +1,8 @@
 # GHCN
-exploration and extraction of daily GHCN climatological data (Global Historiocal Climatologic Network)
+Exploration and extraction of daily GHCN climatological data (Global Historiocal Climatologic Network)
  
 https://www.ncdc.noaa.gov/ghcnd-data-access
 
-This notebook reads the 3 inventory files, and displays the informations in a single browser (station, country, period by parameter), allowing to apply filter (e.g. select country and/or stations). In addition a graph is plotted representing the number of stations for each year, and a map is displayed to show the station locations. Outputs can be saved in an excel file.
+The first notebook allows to view the stations list in a single browser (station, country, period by parameter), and to apply filter (e.g. selecting country and/or stations). A graph is plotted representing the number of stations for each year, and a map is displayed to show the station locations. Outputs can be saved in an excel file.
+
+The second notebook allows in addtion to extract the daily time series, and to montly aggregate the data
