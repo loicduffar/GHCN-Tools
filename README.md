@@ -1,5 +1,5 @@
 # GHCN
-Exploration and extraction of daily GHCN climatological data (Global Historiocal Climatologic Network)
+Exploration and extraction of daily GHCN climatological data (Global Historical Climatologic Network)
  
 https://www.ncdc.noaa.gov/ghcnd-data-access
 
