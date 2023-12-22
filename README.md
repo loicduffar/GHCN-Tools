@@ -5,5 +5,5 @@ The first notebook allows to view the stations list in a single browser (station
 
 A second notebook also allows daily time series to be extracted and montly aggregated.
 
-<img src="https://github.com/loicduffar/GHCN-Tools/blob/master/out/GHCN%20-%20Map.png" width="50"></img>
-<img src="https://github.com/loicduffar/GHCN-Tools/blob/master/out/GHCN%20-%20Stations%20number.png" width="50"></img>
+<img src="https://github.com/loicduffar/GHCN-Tools/blob/master/out/GHCN%20-%20Map.png" width="50%"></img>
+<img src="https://github.com/loicduffar/GHCN-Tools/blob/master/out/GHCN%20-%20Stations%20number.png" width="50%"></img>
